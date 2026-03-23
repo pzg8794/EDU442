@@ -13,14 +13,110 @@ Professor's Directory: [Google Drive - Shared Course Materials](https://drive.go
 
 ## Index
 - [1 Dashboard](#1-dashboard)
-- [2 Deadlines](#2-deadlines)
-- [3 To-Do System](#3-to-do-system)
-- [4 Readings (schedule + quick-study summaries)](#4-readings-schedule--quick-study-summaries)
-- [5 Assignments](#5-assignments)
-- [6 Templates](#6-templates)
-- [7 Class Notes](#7-class-notes)
-- [8 Artifacts](#8-artifacts)
-- [9 Archive](#9-archive)
+- [2 Files & Links](#2-files--links) ⭐ **New**
+- [3 Progress Tracker](#3-progress-tracker) ⭐ **New**
+- [4 Deadlines](#4-deadlines)
+- [5 To-Do System](#5-to-do-system)
+- [6 Readings (schedule + quick-study summaries)](#6-readings-schedule--quick-study-summaries)
+- [7 Assignments](#7-assignments)
+- [8 Templates](#8-templates)
+- [9 Class Notes](#9-class-notes)
+- [10 Artifacts](#10-artifacts)
+- [11 Archive](#11-archive)
+
+---
+
+## 2 Files & Links
+
+**📁 Directory Structure** (click to navigate):
+
+### Core Notes & Documentation
+- [EDU442-Notes.md](EDU442-Notes.md) - This file (main canvas)
+- [README.md](README.md) - Directory overview and study guide
+- [EDU442-PhDStrategy-ReadingReview-and-ToDo.md](EDU442-PhDStrategy-ReadingReview-and-ToDo.md) - PhD strategy connections
+- [Week8-Reading-Prep.md](Week8-Reading-Prep.md) - Week 8 specific prep
+
+### Assignments (with tracking)
+- [../Assignments/README.md](../Assignments/README.md) - All assignment overview
+  - [Self-Portrait/](../Assignments/Self_Portrait/) - Submitted (Feb 16) ⏱️ PAST DUE
+  - [13th_Note_Catcher/](../Assignments/13th_Note_Catcher/) - Submitted (Mar 16) ⏱️ PAST DUE
+  - [Discussant_Questions/](../Assignments/Discussant_Questions/) - [Mar23_GalleryWalk_Drafts.md](../Assignments/Discussant_Questions/Mar23_GalleryWalk_Drafts.md)
+  - [Week8_Presentation/](../Assignments/Week8_Presentation/) - TBD
+  - Deconstructing Bias (Apr 13) - In planning
+  - Impacting Practice (May 4) - In planning
+
+### Course Admin & Syllabus
+- [../Course_Admin/README.md](../Course_Admin/README.md) - Admin overview
+  - [../Course_Admin/Syllabus/](../Course_Admin/Syllabus/) - Official syllabus & grading
+  - [../Course_Admin/Orientation/](../Course_Admin/Orientation/) - First day materials
+  - [../Course_Admin/Announcements/](../Course_Admin/Announcements/) - Class announcements
+
+### Readings
+- [../Course_Readings/README.md](../Course_Readings/README.md) - Reading guide & schedule
+  - [Bell, D. - Faces at the Bottom of the Well](../Course_Readings/Book-Faces%20at%20the%20Bottom%20of%20the%20Well.pdf)
+  - [hooks, b. - Teaching to Transgress](../Course_Readings/Book-hooks-Teaching-to-Transgress.pdf)
+
+### Class Activities & Materials
+- [../Class_Activities/README.md](../Class_Activities/README.md) - In-class materials
+
+### Slides & Presentations
+- [../Slides/README.md](../Slides/README.md) - Presentation directory
+
+---
+
+## 3 Progress Tracker
+
+**Status as of 2026-03-23 (Mon, class day)**
+
+### ✅ Completed Assignments
+- [x] **Self-Portrait + Artist Statement** (Due 2026-02-16) ✓ Submitted
+- [x] **13th Note-Catcher** (Due 2026-03-16) ✓ Submitted
+
+### 📝 In Progress / Upcoming
+- [ ] **Discussant Questions for 2026-03-23** (Class, schooling, precarious knowing) - DUE **TODAY @ NOON**
+  - [x] Readings reviewed (Desmond, Fine, Talusan)
+  - [x] Draft questions completed ([Mar23_GalleryWalk_Drafts.md](../Assignments/Discussant_Questions/Mar23_GalleryWalk_Drafts.md))
+  - [ ] Finalized with group
+  - [ ] Emailed to class + Dr. O'Neil-White
+  
+- [ ] **Deconstructing Bias Paper** (Due 2026-04-13) - **5-7 pages**
+  - [ ] Choose observation setting - **Due 2026-03-09** ⏱️ PASSED (resume/catch up)
+  - [ ] Low-stakes observation - **Due 2026-03-16** ⏱️ PASSED (resume/catch up)
+  - [ ] Primary observation(s) - **Due 2026-03-30**
+  - [ ] Draft - **Due 2026-04-06**
+  - [ ] Final submission - **Due 2026-04-13**
+
+- [ ] **Impacting Practice Project** (Due 2026-05-04) - **Final major assignment**
+  - [ ] Topic + format decision - **Due 2026-03-23** ⏳ Upcoming
+  - [ ] One-page outline - **Due 2026-04-06**
+  - [ ] Prototype for feedback - **Due 2026-04-20**
+  - [ ] Final submission - **Due 2026-05-04**
+
+- [ ] **Week 8 Presentation** (TBD - likely mid-April)
+  - [ ] Slides drafted
+  - [ ] Practice run-through
+
+### 📚 Weekly Reading & Discussion Prep
+- [ ] **2026-03-30: Gender, gender identity, sexuality**
+  - Readings: Blair & Deckman (2022); Rende Mendoza & Johnson (2024); Talusan (2022) Ch. 6
+  - Check group assignment for who is discussing
+  
+- [ ] **2026-04-06: The "F" word** (Group A posts)
+  - Readings: Bianca (2020); Grande (2003); Roberts (2021)
+  
+- [ ] **2026-04-13: Inclusion, constructing others** (Group B posts) + **Deconstructing Bias due**
+  - Readings: Annamma et al. (2013); Flynn (2024); Talusan (2022) Ch. 7
+  
+- [ ] **2026-04-20: Joy and refusal** (Impacting Practice milestones)
+  - Readings: Edwards & Reynolds (2025); Okello (2025); Vlach et al. (2023)
+  
+- [ ] **2026-04-27: Liberatory futures** (roundtable)
+  - Readings: Toliver (2022); Naraian (2021)
+
+### 🔗 Connected Work
+- [ ] Update [EDU442-PhDStrategy-ReadingReview-and-ToDo.md](EDU442-PhDStrategy-ReadingReview-and-ToDo.md) with EQUITAS connections
+- [ ] Synthesis notes for each week (see [5.1 Weekly workflow](#51-weekly-workflow-minimum-viable))
+- [ ] Portfolio/EQUITAS documentation as you complete assignments
 
 ---
 
@@ -38,7 +134,7 @@ Professor's Directory: [Google Drive - Shared Course Materials](https://drive.go
 
 ---
 
-## 2 Deadlines
+## 4 Deadlines
 ### 2.1 Hard deadlines (from syllabus)
 - **Self-Portrait + Artist Statement** - **Mon 2026-02-16** (past due).
   - Syllabus text lists **25 points**. Note: The Rubric is available in the Course Drive / local `Class_Activities/`.
@@ -52,7 +148,7 @@ Professor's Directory: [Google Drive - Shared Course Materials](https://drive.go
 
 ---
 
-## 3 To-Do System
+## 5 To-Do System
 ### 3.1 Weekly workflow (minimum viable)
 For each class week, produce one reusable artifact:
 - **Synthesis:** 6-10 sentences across readings
@@ -69,29 +165,29 @@ These summaries are **study accelerators**, not replacements. Use them to:
 
 ---
 
-## 4 Readings (schedule + quick-study summaries)
+## 6 Readings (schedule + quick-study summaries)
 
 Notes:
 - Most entries below are **paraphrased from abstracts or course framing** (fast study), not full close readings.
 - If you want, we can later add a second layer: **“evidence to cite”** (exact page/scene targets) once you have the PDFs/chapters open.
 
 Quick index (readings by class date):
-- [4.1 2026-01-26](#41-2026-01-26)
-- [4.2 2026-02-02](#42-2026-02-02)
-- [4.3 2026-02-09](#43-2026-02-09)
-- [4.4 2026-02-16](#44-2026-02-16)
-- [4.5 2026-02-23](#45-2026-02-23)
-- [4.6 2026-03-02](#46-2026-03-02)
-- [4.7 2026-03-09](#47-2026-03-09)
-- [4.8 2026-03-16](#48-2026-03-16)
-- [4.9 2026-03-23](#49-2026-03-23)
-- [4.10 2026-03-30](#410-2026-03-30)
-- [4.11 2026-04-06](#411-2026-04-06)
-- [4.12 2026-04-13](#412-2026-04-13)
-- [4.13 2026-04-20](#413-2026-04-20)
-- [4.14 2026-04-27](#414-2026-04-27)
+- [6.1 2026-01-26](#61-2026-01-26)
+- [6.2 2026-02-02](#62-2026-02-02)
+- [6.3 2026-02-09](#63-2026-02-09)
+- [6.4 2026-02-16](#64-2026-02-16)
+- [6.5 2026-02-23](#65-2026-02-23)
+- [6.6 2026-03-02](#66-2026-03-02)
+- [6.7 2026-03-09](#67-2026-03-09)
+- [6.8 2026-03-16](#68-2026-03-16)
+- [6.9 2026-03-23](#69-2026-03-23)
+- [6.10 2026-03-30](#610-2026-03-30)
+- [6.11 2026-04-06](#611-2026-04-06)
+- [6.12 2026-04-13](#612-2026-04-13)
+- [6.13 2026-04-20](#613-2026-04-20)
+- [6.14 2026-04-27](#614-2026-04-27)
 
-### 4.1 2026-01-26
+### 6.1 2026-01-26
 **Topic:** Overview of the course
 **Bell, D. (2018). _Faces at the Bottom of the Well_ (Introduction, pp. 1-14).**
 - **Core claim:** racism is not an occasional deviation; it is a durable, self-reproducing feature of U.S. life and institutions.
@@ -99,7 +195,7 @@ Quick index (readings by class date):
 - **What to watch for:** how he explains *why* many white people resist reforms, and how poverty/segregation are framed as produced by policy (not “culture”).
 - **EQUITAS lens:** treat “diagnosis” and “assessment” as political technologies that can reproduce structural racism even when they look objective.
 
-### 4.2 2026-02-02
+### 6.2 2026-02-02
 **Topic:** Beginning the journey
 **hooks, b. (1994). Teaching to Transgress - Ch. 3: “Embracing Change: Teaching in a Multicultural World” (pp. 35-44).**
 - **Core claim:** multicultural education requires paradigm shifts (teachers + institutions), not token inclusion at the margins.
@@ -112,7 +208,7 @@ Quick index (readings by class date):
 - **Skim target:** definitions of “identity-conscious” practice, and any habit/checklist frameworks you can operationalize in observation notes and future PD modules.
 - **EQUITAS lens:** translate identity-conscious habits into “audit questions” for datasets, metrics, and deployment contexts.
 
-### 4.3 2026-02-09
+### 6.3 2026-02-09
 **Topic:** Intersectionalities (Group A posts)
 **Leo, A. (2023). “Toward a class-conscious approach to cultural responsiveness.”**
 - **Core claim:** cultural responsiveness often becomes shallow if it ignores class and material conditions; class-consciousness changes what “responsive” even means.
@@ -127,7 +223,7 @@ Quick index (readings by class date):
 - **Core claim:** intersectionality names how power systems collide; single-axis stories erase people who sit at multiple intersections.
 - **EQUITAS lens:** justify intersectional evaluation (e.g., subgroup audits beyond single categories) and explain why “overall accuracy” hides patterned harm.
 
-### 4.4 2026-02-16
+### 6.4 2026-02-16
 **Topic:** Critically raced (Group B posts) + Self-Portrait due
 **Coles, J. A. (2023). “A BlackCrit re/imagining of urban schooling social education through black youth enactments of Black storywork.”**
 - **Core claim (study orientation):** Black youth storytelling and “storywork” can function as theory and praxis - not just “data” to extract.
@@ -141,7 +237,7 @@ Quick index (readings by class date):
 - **Core claim (study orientation):** repeated racial stress in schools produces cumulative exhaustion and health impacts for teachers of color.
 - **EQUITAS lens:** “implementation context” includes adult well-being; tools/policies that increase surveillance or conflict intensify harm for educators and students.
 
-### 4.5 2026-02-23
+### 6.5 2026-02-23
 **Topic:** Rethinking pedagogies
 **Blackburn, M. V. (2021). “Pedagogy and pleasure: Trans and gender transgressive students in an LGBTQ-themed literature class.”**
 - **Core claim:** “pleasure” can be pedagogically and politically meaningful - not extra - for trans/gender-transgressive students navigating school.
@@ -152,7 +248,7 @@ Quick index (readings by class date):
 - **Core claim (study orientation):** culturally sustaining pedagogy argues for sustaining community cultural/language practices, not “including” them while assimilating students.
 - **EQUITAS lens:** define “success” as sustaining and expanding students’ cultural-linguistic repertoires, not optimizing for standardization/assimilation.
 
-### 4.6 2026-03-02
+### 6.6 2026-03-02
 **Topic:** Intersectionality, identity, and decolonization (Group A posts)
 **Gill, V. (2022). “Intersectional(ity) pedagogy: Conceptualizing soul work toward solidarity and resistance.”**
 - **Core claim:** intersectional pedagogy requires “soul work” - analysis of self and society aimed at solidarity, healing, humanization, and resistance.
@@ -164,7 +260,7 @@ Quick index (readings by class date):
 - **Lens:** uses Tribal Critical Race Theory (TribalCrit) to foreground Indigenous sovereignty and colonial histories.
 - **EQUITAS lens:** identity categories are political; any “diagnostic” system must account for historical context and avoid collapsing Indigenous identity into generic race categories.
 
-### 4.7 2026-03-09
+### 6.7 2026-03-09
 **Topic:** Linguistic diversity (Group B posts)
 **Austin, T., & Anya, U. (2024). “World languages for Black Linguistic Reparations.”**
 - **Core claim:** world language education in the U.S. has historically erased Black learners and Black linguistic histories; the field can be a site of reparative work.
@@ -179,7 +275,7 @@ Quick index (readings by class date):
 **Optional:** Smitherman, G. (1999). Intro to ebonics.
 - **Use:** background to support a historical and linguistic framing of Black Language(s) as rule-governed, meaningful, and culturally embedded.
 
-### 4.8 2026-03-16
+### 6.8 2026-03-16
 **Topic:** School-to-prison pipeline (Group A posts) + 13th note-catcher due
 **Watch:** _13th_ (Ava DuVernay, 2016).
 - **Core arc:** traces connections between slavery, the 13th Amendment’s punishment clause, criminalization, mass incarceration, and political economy.
@@ -198,7 +294,7 @@ Quick index (readings by class date):
 - **Core idea (orientation):** punishment is historically racialized; carceral logics shape law, schooling, and everyday life.
 - **EQUITAS lens:** “discipline data” is never neutral; it is produced inside a punishment regime.
 
-### 4.9 2026-03-23
+### 6.9 2026-03-23
 **Topic:** Class, schooling, and precarious knowing (Group B posts)
 **Desmond, M. (2021). “Capitalism” (in _The 1619 Project_, pp. 259-306).**
 - **Core idea (orientation):** capitalism in the U.S. is entangled with racial exploitation; inequality is produced, not accidental.
@@ -211,7 +307,7 @@ Quick index (readings by class date):
 **Talusan, L. (2022). Ch. 4 (Class).**
 - **Skim target:** practice habits for noticing class-based exclusion and changing routines/policies that quietly sort students.
 
-### 4.10 2026-03-30
+### 6.10 2026-03-30
 **Topic:** Gender, gender identity, and sexuality
 **Blair, E., & Deckman, S. (2022). “Beyond pronouns: The case for gender-expansive and democratizing practice in teacher education.”**
 - **Core claim:** moving past “pronouns-only” inclusion toward broader democratizing practices in teacher education.
@@ -224,7 +320,7 @@ Quick index (readings by class date):
 **Talusan, L. (2022). Ch. 6 (Gender).**
 - **Skim target:** classroom habit shifts and case examples you can port into your Impacting Practice artifact.
 
-### 4.11 2026-04-06
+### 6.11 2026-04-06
 **Topic:** The “F” word (Group A posts)
 **Bianca, H. (2020). “Extending bell hooks’ feminist theory.”**
 - **Core idea (orientation):** revisits hooks’ feminist theorizing to extend/clarify implications for contemporary pedagogy and praxis.
@@ -238,7 +334,7 @@ Quick index (readings by class date):
 - **Core claim:** proposes ways to integrate feminist theory with teaching practice in teacher education; emphasizes praxis (reflection + action).
 - **EQUITAS lens:** make your work legible as praxis: explicit theory -> method -> practice -> accountability.
 
-### 4.12 2026-04-13
+### 6.12 2026-04-13
 **Topic:** Inclusion and constructing others (Group B posts) + Deconstructing Bias due
 **Annamma, S., Connor, D., & Ferri, B. (2013). “Dis/ability critical race studies (DisCrit).”**
 - **Core claim (study orientation):** DisCrit theorizes race and disability as intertwined; critiques how schools label, sort, and punish.
@@ -251,7 +347,7 @@ Quick index (readings by class date):
 **Talusan, L. (2022). Ch. 7 (Disability).**
 - **Skim target:** language guidance + practical routines to avoid ableist assumptions in school decision-making.
 
-### 4.13 2026-04-20
+### 6.13 2026-04-20
 **Topic:** Joy and refusal (Impacting Practice presentations / milestones)
 **Edwards, E. B., & Reynolds, A. D. (2025). “You Can’t Steal My Joy! Practices and Possibilities for Black Joy in Urban Education.”**
 - **Core claim:** positions Black Joy as an analytic and praxis orientation in urban education, linked to refusal, love, spirituality, and eroticism.
@@ -266,7 +362,7 @@ Quick index (readings by class date):
 - **Core claim:** joy is a rigorous pursuit; gives educators CHRE’s five pursuits (identity, skills, intellect, criticality, joy) with concrete read-aloud examples centered on justice and humanity.
 - **EQUITAS lens:** treat joy as part of the learning objective; build evaluation that captures identity, criticality, and joy (not only skills).
 
-### 4.14 2026-04-27
+### 6.14 2026-04-27
 **Topic:** Liberatory futures (roundtable)
 **Toliver, S. R. (2022). “Dreamland: Black Girls Saying and Creating Space through Fantasy Worlds.”**
 - **Core claim:** analyzes fantasy stories written by Black middle school girls to show how they resist spatial control and create worlds they can construct/dismantle.
@@ -278,8 +374,8 @@ Quick index (readings by class date):
 
 ---
 
-## 5 Assignments
-### 5.1 Deconstructing Bias (Due Mon 2026-04-13)
+## 7 Assignments
+### 7.1 Deconstructing Bias (Due Mon 2026-04-13)
 **Deliverable:** 5-7 page observation + reflection + citations.
 
 **Milestones (so this doesn’t explode in April):**
@@ -289,7 +385,7 @@ Quick index (readings by class date):
 - Draft by **Mon 2026-04-06**
 - Final by **Mon 2026-04-13**
 
-### 5.2 Impacting Practice (Final due Mon 2026-05-04)
+### 7.2 Impacting Practice (Final due Mon 2026-05-04)
 **Deliverable:** usable tool (unit / PD module / policy brief / training / etc.) + rationale.
 
 **Milestones:**
