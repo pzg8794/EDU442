@@ -1,0 +1,14 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.xdv
+*.pdf_encrypted
+
+# macOS metadata
+.DS_Store
+
+# Keep only .tex and .pdf files in version control
