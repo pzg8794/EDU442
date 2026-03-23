@@ -1,10 +1,10 @@
-# Course Notes
+# EDU 442 Course Directory Guide
 
-This directory contains comprehensive study notes, reading summaries, and course tracking documents.
+This is the directory overview and study guide for the entire EDU442 course repository.
 
-## Primary Course Notes
-
-- **[EDU442-Notes.md](EDU442-Notes.md)** (✅ MAIN CANVAS)
+**Main course files at root level:**
+- [EDU442-Notes.md](EDU442-Notes.md) — ⭐ **MASTER file** with all course info, tracking, readings, assignments
+- [README.md](README.md) — This file (directory navigation)
   - **Daily Last Updated:** 2026-03-23
   - Comprehensive notes covering:
     - Dashboard (current status & deadlines)
@@ -15,19 +15,19 @@ This directory contains comprehensive study notes, reading summaries, and course
 
 ---
 
-## Supplementary Notes
+## Supplementary Notes (in Notes/ subdirectory)
 
-- **[EDU442-PhDStrategy-ReadingReview-and-ToDo.md](EDU442-PhDStrategy-ReadingReview-and-ToDo.md)**
+- **[Notes/EDU442-PhDStrategy-ReadingReview-and-ToDo.md](Notes/EDU442-PhDStrategy-ReadingReview-and-ToDo.md)**
   - Notes connecting EDU442 readings to PhD research and EQUITAS work
   - Track ideas for future projects, dissertation, and publication
 
-- **[Week8-Reading-Prep.md](Week8-Reading-Prep.md)**
+- **[Notes/Week8-Reading-Prep.md](Notes/Week8-Reading-Prep.md)**
   - Preparation notes for Week 8 (specific reading notes)
 
-- **[EDU442.gdoc](EDU442.gdoc)**
+- **[Notes/EDU442.gdoc](Notes/EDU442.gdoc)**
   - Google Doc version (shared with Dr. O'Neil-White if needed)
 
-- **[EDU442-Class-notes.txt](EDU442-Class-notes.txt)**
+- **[Notes/EDU442-Class-notes.txt](Notes/EDU442-Class-notes.txt)**
   - Raw class notes from lectures (text format)
 
 ---

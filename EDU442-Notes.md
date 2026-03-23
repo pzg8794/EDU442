@@ -19,9 +19,9 @@
 ## 📁 QUICK LINKS TO LOCAL FILES & SUBDIRECTORIES
 
 **Notes & Documentation:**
-- [Notes/README.md](README.md) — Study strategy guide for this directory
-- [EDU442-PhDStrategy-ReadingReview-and-ToDo.md](EDU442-PhDStrategy-ReadingReview-and-ToDo.md) — PhD connections
-- [Week8-Reading-Prep.md](Week8-Reading-Prep.md) — Week 8 specific prep
+- [README.md](README.md) — Study strategy guide for this directory
+- [Notes/EDU442-PhDStrategy-ReadingReview-and-ToDo.md](Notes/EDU442-PhDStrategy-ReadingReview-and-ToDo.md) — PhD connections
+- [Notes/Week8-Reading-Prep.md](Notes/Week8-Reading-Prep.md) — Week 8 specific prep
 
 **Course Folders:**
 - [../Assignments/README.md](../Assignments/README.md) — All assignments (Self-Portrait, 13th Note-Catcher, Discussant Q's, Deconstructing Bias, Impacting Practice)
