@@ -1,15 +1,36 @@
-# EDU 442 - Notes (Spring 2026)
-**Last updated:** 2026-03-22 (Sun)
+# EDU 442 - Complete Course Notes & Tracking (Spring 2026)
 
-Course: **EDU 442 - Race, Class, Gender, and Disability in American Education**  
-Instructor: **William O'Neil-White**  
-Meetings: **Mondays 4:50-7:30 PM** (LeChase 103 per syllabus; confirm if this changed)  
-Professor's Directory: [Google Drive - Shared Course Materials](https://drive.google.com/drive/u/0/folders/1c-oBFLoAaaCAXMhm93e3SwkZ7c0vg094)
+**Last updated:** 2026-03-23 (Mon)  
+**This is the MASTER file** for all course information, tracking, deadlines, readings, and assignments.
 
 ---
 
-## Directory Reorganization Note
-*Assignments and folders have been compartmentalized locally to match the structure of the Professor's Google Drive. Check the local `Assignments/`, `Course_Admin/`, `Course_Readings/`, and `Class_Activities/` folders for assignment templates and rubrics.*
+## 📌 COURSE HEADER
+
+**Course:** EDU 442 - Race, Class, Gender, and Disability in American Education  
+**Instructor:** William O'Neil-White  
+**Meetings:** Mondays 4:50-7:30 PM (LeChase 103)  
+**Professor's Google Drive:** [Shared Course Materials](https://drive.google.com/drive/u/0/folders/1c-oBFLoAaaCAXMhm93e3SwkZ7c0vg094)
+
+**Local Repository:** https://github.com/pzg8794/EDU442 (private, all files version-controlled)
+
+---
+
+## 📁 QUICK LINKS TO LOCAL FILES & SUBDIRECTORIES
+
+**Notes & Documentation:**
+- [Notes/README.md](README.md) — Study strategy guide for this directory
+- [EDU442-PhDStrategy-ReadingReview-and-ToDo.md](EDU442-PhDStrategy-ReadingReview-and-ToDo.md) — PhD connections
+- [Week8-Reading-Prep.md](Week8-Reading-Prep.md) — Week 8 specific prep
+
+**Course Folders:**
+- [../Assignments/README.md](../Assignments/README.md) — All assignments (Self-Portrait, 13th Note-Catcher, Discussant Q's, Deconstructing Bias, Impacting Practice)
+- [../Course_Admin/README.md](../Course_Admin/README.md) — Syllabus, syllabus, orientation, announcements
+- [../Course_Readings/README.md](../Course_Readings/README.md) — Reading schedule & PDFs
+- [../Class_Activities/README.md](../Class_Activities/README.md) — In-class materials
+- [../Slides/README.md](../Slides/README.md) — Presentation slide directory
+
+---
 
 ## Index
 - [1 Dashboard](#1-dashboard)
